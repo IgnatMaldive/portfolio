@@ -2,7 +2,7 @@
 author = "Hugo Authors"
 title = "Crypto Point-Of-Sale"
 date = "2018-01-09"
-description = "A compact fiat-to-crypto ATM"
+description = "A compact crypto ATM"
 categories = [
     "Crypto",
     "Web3" 

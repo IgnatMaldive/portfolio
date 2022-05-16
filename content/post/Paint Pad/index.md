@@ -2,7 +2,7 @@
 author = "Hugo Authors"
 title = "Paint Pad"
 date = "2021-01-09"
-description = "Learning to paint using Augmented Reality"
+description = "Learning to paint with Augmented Reality"
 categories = [
     "Augmented Reality",
     "Mobile"

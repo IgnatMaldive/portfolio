@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Virtual Reality on Ignacio Mondine Natucci</title>
-        <link>https://ignatmaldive.github.io/portfolio23_new/categories/virtual-reality/</link>
+        <link>https://ignatmaldive.github.io/portfolio/categories/virtual-reality/</link>
         <description>Recent content in Virtual Reality on Ignacio Mondine Natucci</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 09 Feb 2003 00:00:00 +0000</lastBuildDate><atom:link href="https://ignatmaldive.github.io/portfolio23_new/categories/virtual-reality/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 09 Feb 2003 00:00:00 +0000</lastBuildDate><atom:link href="https://ignatmaldive.github.io/portfolio/categories/virtual-reality/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Augmented Reality Display</title>
-        <link>https://ignatmaldive.github.io/portfolio23_new/p/augmented-reality-display/</link>
+        <link>https://ignatmaldive.github.io/portfolio/p/augmented-reality-display/</link>
         <pubDate>Sun, 09 Feb 2003 00:00:00 +0000</pubDate>
         
-        <guid>https://ignatmaldive.github.io/portfolio23_new/p/augmented-reality-display/</guid>
-        <description>&lt;img src="https://ignatmaldive.github.io/portfolio23_new/p/augmented-reality-display/head-mounted.jpg" alt="Featured image of post Augmented Reality Display" /&gt;&lt;p&gt;The launch of the Artoolkit tracking library in 2001 opened new possibilities in the world of Augmented Reality application development solving two of the key problems in AR; viewpoint tracking and virtual object interaction.&lt;/p&gt;
+        <guid>https://ignatmaldive.github.io/portfolio/p/augmented-reality-display/</guid>
+        <description>&lt;img src="https://ignatmaldive.github.io/portfolio/p/augmented-reality-display/head-mounted.jpg" alt="Featured image of post Augmented Reality Display" /&gt;&lt;p&gt;The launch of the Artoolkit tracking library in 2001 opened new possibilities in the world of Augmented Reality application development solving two of the key problems in AR; viewpoint tracking and virtual object interaction.&lt;/p&gt;
 &lt;p&gt;In 2002 Daem Interactive developed a set of AR specific Head Mounted Displays to explore applications in the fields of Architecture and Urban Planning visualization. A number of public installations were developed for the 2004 Forum in Barcelona.&lt;/p&gt;
 &lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/augmented-reality-display/01.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://ignatmaldive.github.io/portfolio/portfolio/p/augmented-reality-display/01.jpg&#34;
 	width=&#34;1024&#34;
 	height=&#34;768&#34;
-	srcset=&#34;https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/augmented-reality-display/01_huc83f45dfbb41d36729eb7db3a33899ad_1188878_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/augmented-reality-display/01_huc83f45dfbb41d36729eb7db3a33899ad_1188878_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://ignatmaldive.github.io/portfolio/portfolio/p/augmented-reality-display/01_huc83f45dfbb41d36729eb7db3a33899ad_1188878_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio/portfolio/p/augmented-reality-display/01_huc83f45dfbb41d36729eb7db3a33899ad_1188878_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -26,10 +26,10 @@
 		data-flex-grow=&#34;133&#34;
 		data-flex-basis=&#34;320px&#34;
 	
-&gt;  &lt;img src=&#34;https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/augmented-reality-display/02.jpg&#34;
+&gt;  &lt;img src=&#34;https://ignatmaldive.github.io/portfolio/portfolio/p/augmented-reality-display/02.jpg&#34;
 	width=&#34;1024&#34;
 	height=&#34;768&#34;
-	srcset=&#34;https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/augmented-reality-display/02_hufcea6f436589af4b069fd8060214f5c8_1178829_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/augmented-reality-display/02_hufcea6f436589af4b069fd8060214f5c8_1178829_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://ignatmaldive.github.io/portfolio/portfolio/p/augmented-reality-display/02_hufcea6f436589af4b069fd8060214f5c8_1178829_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio/portfolio/p/augmented-reality-display/02_hufcea6f436589af4b069fd8060214f5c8_1178829_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -38,10 +38,10 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/augmented-reality-display/03.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://ignatmaldive.github.io/portfolio/portfolio/p/augmented-reality-display/03.jpg&#34;
 	width=&#34;801&#34;
 	height=&#34;1136&#34;
-	srcset=&#34;https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/augmented-reality-display/03_hu7b8de99ce84ec215daf085f735b68ff1_317324_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/augmented-reality-display/03_hu7b8de99ce84ec215daf085f735b68ff1_317324_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://ignatmaldive.github.io/portfolio/portfolio/p/augmented-reality-display/03_hu7b8de99ce84ec215daf085f735b68ff1_317324_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio/portfolio/p/augmented-reality-display/03_hu7b8de99ce84ec215daf085f735b68ff1_317324_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -49,10 +49,10 @@
 		data-flex-grow=&#34;70&#34;
 		data-flex-basis=&#34;169px&#34;
 	
-&gt;  &lt;img src=&#34;https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/augmented-reality-display/04.jpg&#34;
+&gt;  &lt;img src=&#34;https://ignatmaldive.github.io/portfolio/portfolio/p/augmented-reality-display/04.jpg&#34;
 	width=&#34;2160&#34;
 	height=&#34;1440&#34;
-	srcset=&#34;https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/augmented-reality-display/04_hu33bd8b41bbb1fc5696c4b30dfbe09eb0_2766288_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/augmented-reality-display/04_hu33bd8b41bbb1fc5696c4b30dfbe09eb0_2766288_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://ignatmaldive.github.io/portfolio/portfolio/p/augmented-reality-display/04_hu33bd8b41bbb1fc5696c4b30dfbe09eb0_2766288_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio/portfolio/p/augmented-reality-display/04_hu33bd8b41bbb1fc5696c4b30dfbe09eb0_2766288_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	

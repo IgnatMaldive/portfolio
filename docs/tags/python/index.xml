@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Python on Ignacio Mondine Natucci</title>
-        <link>https://ignatmaldive.github.io/portfolio23_new/tags/python/</link>
+        <link>https://ignatmaldive.github.io/portfolio/tags/python/</link>
         <description>Recent content in Python on Ignacio Mondine Natucci</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 09 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ignatmaldive.github.io/portfolio23_new/tags/python/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 09 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ignatmaldive.github.io/portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Site Chatbot Demo </title>
-        <link>https://ignatmaldive.github.io/portfolio23_new/p/site-chatbot-demo/</link>
+        <link>https://ignatmaldive.github.io/portfolio/p/site-chatbot-demo/</link>
         <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://ignatmaldive.github.io/portfolio23_new/p/site-chatbot-demo/</guid>
-        <description>&lt;img src="https://ignatmaldive.github.io/portfolio23_new/p/site-chatbot-demo/03.jpg" alt="Featured image of post Site Chatbot Demo " /&gt;&lt;p&gt;The Barcelona Activa Chatbot is a digital assistant created to enhance user interaction on the Barcelona Activa website. Barcelona Activa is the economic development agency of the Barcelona City Council. The goal of this project is to provide users with a seamless and efficient way to access information and resources related to economic development in Barcelona.&lt;/p&gt;
+        <guid>https://ignatmaldive.github.io/portfolio/p/site-chatbot-demo/</guid>
+        <description>&lt;img src="https://ignatmaldive.github.io/portfolio/p/site-chatbot-demo/03.jpg" alt="Featured image of post Site Chatbot Demo " /&gt;&lt;p&gt;The Barcelona Activa Chatbot is a digital assistant created to enhance user interaction on the Barcelona Activa website. Barcelona Activa is the economic development agency of the Barcelona City Council. The goal of this project is to provide users with a seamless and efficient way to access information and resources related to economic development in Barcelona.&lt;/p&gt;
 &lt;h2 id=&#34;methodology&#34;&gt;Methodology&lt;/h2&gt;
 &lt;p&gt;Data Collection:&lt;br&gt;
 Relevant content from the Barcelona Activa website was collected using web scraping techniques. This content served as the basis for training the chatbot.&lt;/p&gt;
@@ -23,10 +23,10 @@ The processed content was embedded into a vector database using Pinecone, a vect
 &lt;p&gt;Bot Training:&lt;br&gt;
 The Langchain LLM framework, along with OpenAI Embeddings, was used to train the chatbot. The bot was programmed to understand user queries and generate appropriate responses by leveraging the embedded content and links.&lt;/p&gt;
 &lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/site-chatbot-demo/02.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://ignatmaldive.github.io/portfolio/portfolio/p/site-chatbot-demo/02.jpg&#34;
 	width=&#34;1434&#34;
 	height=&#34;970&#34;
-	srcset=&#34;https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/site-chatbot-demo/02_hu7ceab670a0feae6ab0c56d0a22d0d10c_90726_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/site-chatbot-demo/02_hu7ceab670a0feae6ab0c56d0a22d0d10c_90726_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://ignatmaldive.github.io/portfolio/portfolio/p/site-chatbot-demo/02_hu7ceab670a0feae6ab0c56d0a22d0d10c_90726_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio/portfolio/p/site-chatbot-demo/02_hu7ceab670a0feae6ab0c56d0a22d0d10c_90726_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -34,10 +34,10 @@ The Langchain LLM framework, along with OpenAI Embeddings, was used to train the
 		data-flex-grow=&#34;147&#34;
 		data-flex-basis=&#34;354px&#34;
 	
-&gt; &lt;img src=&#34;https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/site-chatbot-demo/01.jpg&#34;
+&gt; &lt;img src=&#34;https://ignatmaldive.github.io/portfolio/portfolio/p/site-chatbot-demo/01.jpg&#34;
 	width=&#34;1313&#34;
 	height=&#34;697&#34;
-	srcset=&#34;https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/site-chatbot-demo/01_hu6a4fb34dce078d7939be0ca1c17ced23_100955_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/site-chatbot-demo/01_hu6a4fb34dce078d7939be0ca1c17ced23_100955_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://ignatmaldive.github.io/portfolio/portfolio/p/site-chatbot-demo/01_hu6a4fb34dce078d7939be0ca1c17ced23_100955_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio/portfolio/p/site-chatbot-demo/01_hu6a4fb34dce078d7939be0ca1c17ced23_100955_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -63,11 +63,11 @@ The Langchain LLM framework, along with OpenAI Embeddings, was used to train the
         </item>
         <item>
         <title>Generative Avatars</title>
-        <link>https://ignatmaldive.github.io/portfolio23_new/p/generative-avatars/</link>
+        <link>https://ignatmaldive.github.io/portfolio/p/generative-avatars/</link>
         <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://ignatmaldive.github.io/portfolio23_new/p/generative-avatars/</guid>
-        <description>&lt;img src="https://ignatmaldive.github.io/portfolio23_new/p/generative-avatars/cover.jpg" alt="Featured image of post Generative Avatars" /&gt;&lt;p&gt;Personalized virtual avatars through the application of state-of-the-art AI tools, Stable Diffusion fine-tunning with Dreambooth. The primary goal is to offer an accessible approach for users to craft lifelike avatars according to their preferences.&lt;/p&gt;
+        <guid>https://ignatmaldive.github.io/portfolio/p/generative-avatars/</guid>
+        <description>&lt;img src="https://ignatmaldive.github.io/portfolio/p/generative-avatars/cover.jpg" alt="Featured image of post Generative Avatars" /&gt;&lt;p&gt;Personalized virtual avatars through the application of state-of-the-art AI tools, Stable Diffusion fine-tunning with Dreambooth. The primary goal is to offer an accessible approach for users to craft lifelike avatars according to their preferences.&lt;/p&gt;
 &lt;h2 id=&#34;methodology&#34;&gt;Methodology&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Workspace Setup:&lt;/strong&gt; Utilize Google Colab and HuggingFaces for a seamless experience.&lt;/li&gt;
@@ -76,10 +76,10 @@ The Langchain LLM framework, along with OpenAI Embeddings, was used to train the
 &lt;li&gt;&lt;strong&gt;Avatar Integration:&lt;/strong&gt; Seamlessly integrate avatars into preferred platforms.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/generative-avatars/01.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://ignatmaldive.github.io/portfolio/portfolio/p/generative-avatars/01.jpg&#34;
 	width=&#34;512&#34;
 	height=&#34;512&#34;
-	srcset=&#34;https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/generative-avatars/01_hudee4c4571c4d7b08e4aec9c39a6f9bd2_65742_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/generative-avatars/01_hudee4c4571c4d7b08e4aec9c39a6f9bd2_65742_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://ignatmaldive.github.io/portfolio/portfolio/p/generative-avatars/01_hudee4c4571c4d7b08e4aec9c39a6f9bd2_65742_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio/portfolio/p/generative-avatars/01_hudee4c4571c4d7b08e4aec9c39a6f9bd2_65742_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -87,10 +87,10 @@ The Langchain LLM framework, along with OpenAI Embeddings, was used to train the
 		data-flex-grow=&#34;100&#34;
 		data-flex-basis=&#34;240px&#34;
 	
-&gt; &lt;img src=&#34;https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/generative-avatars/03.jpg&#34;
+&gt; &lt;img src=&#34;https://ignatmaldive.github.io/portfolio/portfolio/p/generative-avatars/03.jpg&#34;
 	width=&#34;512&#34;
 	height=&#34;512&#34;
-	srcset=&#34;https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/generative-avatars/03_huf3ac0f96c95deaaacca47c9e6b7a7b24_94580_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/generative-avatars/03_huf3ac0f96c95deaaacca47c9e6b7a7b24_94580_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://ignatmaldive.github.io/portfolio/portfolio/p/generative-avatars/03_huf3ac0f96c95deaaacca47c9e6b7a7b24_94580_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio/portfolio/p/generative-avatars/03_huf3ac0f96c95deaaacca47c9e6b7a7b24_94580_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -98,10 +98,10 @@ The Langchain LLM framework, along with OpenAI Embeddings, was used to train the
 		data-flex-grow=&#34;100&#34;
 		data-flex-basis=&#34;240px&#34;
 	
-&gt; &lt;img src=&#34;https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/generative-avatars/02.jpg&#34;
+&gt; &lt;img src=&#34;https://ignatmaldive.github.io/portfolio/portfolio/p/generative-avatars/02.jpg&#34;
 	width=&#34;1580&#34;
 	height=&#34;718&#34;
-	srcset=&#34;https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/generative-avatars/02_hu866ad595e7c3eb7db470acfbe751f004_184370_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio23_new/portfolio23_new/p/generative-avatars/02_hu866ad595e7c3eb7db470acfbe751f004_184370_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://ignatmaldive.github.io/portfolio/portfolio/p/generative-avatars/02_hu866ad595e7c3eb7db470acfbe751f004_184370_480x0_resize_q75_box.jpg 480w, https://ignatmaldive.github.io/portfolio/portfolio/p/generative-avatars/02_hu866ad595e7c3eb7db470acfbe751f004_184370_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
